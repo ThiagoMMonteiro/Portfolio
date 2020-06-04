@@ -8,6 +8,7 @@ Looking for new challenges
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/thiago-m-monteiro/)
+* [Medium](https://medium.com/@thiago.monteiro2608)
 
 ## Projects:
 
