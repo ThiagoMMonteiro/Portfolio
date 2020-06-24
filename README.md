@@ -13,4 +13,6 @@ Looking for new challenges
 ## Projects:
 
 * **Reverse Geocoding using Python and SQLite:** https://github.com/ThiagoMMonteiro/reverse_geocoding
+* **Book Review Website with Python (flask), html, css, bootstrap - in development:** https://github.com/ThiagoMMonteiro/project1
 * **Python virtual book - in constant development:** https://github.com/ThiagoMMonteiro/FullPython
+
