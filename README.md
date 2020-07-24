@@ -13,7 +13,8 @@ Looking for new challenges
 ## Projects:
 
 * **Reverse Geocoding using Python and SQLite:** https://github.com/ThiagoMMonteiro/reverse_geocoding
-* **eBay-like e-commerce auction site using Django (under development):** https://github.com/ThiagoMMonteiro/Commerce
+* **eBay-like e-commerce auction site using Django:** https://github.com/ThiagoMMonteiro/Commerce
+  * **You also can see this website deployed in Heroku:**http://auction-listings.herokuapp.com/
 * **Wikipedia-like online encyclopedia using Django:** https://github.com/ThiagoMMonteiro/wiki
 * **Book Review Website with Python (flask), html, css, bootstrap, external API (Goodreads) and PostgreeSQL:** https://github.com/ThiagoMMonteiro/BookReview
   * **You also can see this website deployed in Heroku:** https://book-review-thg.herokuapp.com/
